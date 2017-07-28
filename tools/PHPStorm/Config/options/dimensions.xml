@@ -1,0 +1,53 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1279" y="241" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="998" y="560" />
+    <location key="#Browse_Repositories.0.0.2560.1440" x="868" y="394" />
+    <location key="SettingsEditor.0.0.2560.1440" x="354" y="187" />
+    <location key="findTextDialog.0.0.2560.1440" x="1042" y="457" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.2560.1440" x="1018" y="484" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.2560.1440" x="885" y="394" />
+    <location key="#Custom_Plugin_Repositories.0.0.2560.1440" x="1141" y="612" />
+    <location key="#HTTP_Proxy.0.0.2560.1440" x="1057" y="472" />
+    <location key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveNamespaceDialog#.0.0.2560.1440" x="1058" y="619" />
+    <location key="Github.CreateGistDialog.0.0.2560.1440" x="1113" y="629" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2560.1440" x="1046" y="624" />
+    <location key="NewPhpClassDialog.0.0.2560.1440" x="996" y="567" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.2560.1440" x="1081" y="585" />
+    <location key="WELCOME_SCREEN.0.0.3840.2400@192dpi" x="1922" y="460" />
+    <location key="find.popup.0.0.2560.1440" x="1067" y="191" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="961" y="230" />
+    <location key="SettingsEditor.0.0.1920.1080" x="332" y="84" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" x="703" y="366" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="554" y="175" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080" x="439" y="79" />
+    <location key="SettingsEditor.0.0.3840.2400@192dpi" x="936" y="550" />
+    <location key="com.jetbrains.php.phpunit.PhpUnitNewTestDialog.0.0.3840.2400@192dpi" x="1180" y="844" />
+    <location key="NewPhpClassDialog.0.0.3840.2400@192dpi" x="1168" y="898" />
+    <location key="NewPhpFileDialog.0.0.3840.2400@192dpi" x="1566" y="1094" />
+    <location key="#Notifications.0.0.3840.2400@192dpi" x="1436" y="674" />
+    <location key="NewPhpFileDialog.0.0.2560.1440" x="1103" y="664" />
+    <location key="ReplaceDuplicatesPrompt.0.0.2560.1440" x="775" y="655" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" x="1044" y="226" />
+    <location key="#Notifications.0.0.2560.1440" x="1037" y="456" />
+    <location key="StructurePopup.0.0.2560.1440" x="1066" y="508" />
+    <location key="find.popup.0.0.3840.2400@192dpi" x="1280" y="230" />
+    <location key="StructurePopup.0.0.3840.2400@192dpi" x="1516" y="778" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1090" y="411" />
+    <location key="ReplaceDuplicatesPrompt.0.0.3840.2400@192dpi" x="906" y="1066" />
+    <location key="find.popup.458.2880.3840.2400@192dpi" x="1738" y="3196" />
+    <location key="StructurePopup.458.2880.3840.2400@192dpi" x="1974" y="3656" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.458.2880.3840.2400@192dpi" x="1644" y="3670" />
+    <size key="SettingsEditor.0.0.2560.1440" width="1116" height="961" />
+    <size key="find.popup.0.0.2560.1440" width="1304" height="961" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1268" height="860" />
+    <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080" width="1120" height="822" />
+    <size key="SettingsEditor.0.0.3840.2400@192dpi" width="1976" height="1438" />
+    <size key="GotoFile_FileTypePopup.0.0.2560.1440" width="200" height="200" />
+    <size key="StructurePopup.0.0.2560.1440" width="432" height="421" />
+    <size key="find.popup.0.0.3840.2400@192dpi" width="1740" height="1260" />
+    <size key="StructurePopup.0.0.3840.2400@192dpi" width="808" height="842" />
+    <size key="find.popup.458.2880.3840.2400@192dpi" width="1740" height="1236" />
+    <size key="StructurePopup.458.2880.3840.2400@192dpi" width="808" height="842" />
+  </component>
+</application>

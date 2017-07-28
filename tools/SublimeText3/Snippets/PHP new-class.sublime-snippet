@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[<?php
+
+namespace ${1}
+
+class ${2}
+{
+	public function ${3}()
+	{
+		${4}
+	}
+}]]></content>
+	<tabTrigger>nclass</tabTrigger>
+</snippet>

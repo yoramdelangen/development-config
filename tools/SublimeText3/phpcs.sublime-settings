@@ -1,0 +1,23 @@
+{
+	"show_debug": true,
+	"php_cs_fixer_executable_path": "/Users/Yoram/.composer/vendor/bin/php-cs-fixer",
+	"phpcs_executable_path": "/Users/Yoram/.composer/vendor/bin",
+	"phpcs_php_path": "/usr/local/bin/php",
+	// FOR PHP7 = true
+    "phpcs_linter_command_on_save": false,
+    // FOR PHP5
+	// "php_cs_fixer_on_save": true,
+
+	"phpcs_execute_on_save": false,
+	// "php_cs_fixer_show_quick_panel": false,
+	"php_cs_fixer_additional_args": {
+		"--rules": "@Symfony,@PSR2,array_syntax,ordered_imports"
+    },
+
+    "phpcs_linter_run": true,
+    "phpcbf_on_save": false,
+    "phpcbf_show_quick_panel": false,
+
+    // Path to where you have the phpcbf installed
+    "phpcbf_executable_path": "/Users/Yoram/.composer/vendor/bin/phpcbf"
+}

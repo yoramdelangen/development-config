@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "php-cs-fixer fix ${file_name} --config=/Users/Yoram/.scripts/php_cs.dist",
+	"working_dir": "$file_path",
+	"selector": "source.php"
+}

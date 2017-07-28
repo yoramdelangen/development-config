@@ -1,0 +1,65 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.PS-163.7743.39" value="18" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="1" />
+    <property name="PLUGIN_FILTER" value="vim&#10;vue&#10;laravel&#10;mater&#10;.env" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DEFAULT" />
+    <property name="ideavim.statistics.timestamp" value="1493899719443" />
+    <property name="selected.color.option.type" value="GHERKIN_TABLE_CELL" />
+    <property name="KEYMAP" value="replace in&#10;file structure&#10;file&#10;create&#10;GO TO line" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="evlsprt3.PS-171.2613.13" value="14" />
+    <property name="file.gist.reindex.count" value="40405" />
+    <property name="com.chrisrm.idea.MaterialThemeUIFork.theme" value="DEFAULT" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="evlsprt3.PS-171.2822.14" value="18" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="evlsprt3.PS-171.3691.14" value="19" />
+    <property name="evlsprt.PS-171.3691.14" value="15b24e5c792" />
+    <property name="evlsprt2.PS-171.3691.14" value="15ad36473c5" />
+    <property name="FileTemplates.SelectedTemplate" value="Markdown" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="true" />
+    <property name="evlsprt3.PS-171.3780.55" value="12" />
+    <property name="change.laf.on.editor.theme.change" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="evlsprt.PS-171.3780.55" value="15b6badddad" />
+    <property name="evlsprt2.PS-171.3780.55" value="15b614d6f52" />
+    <property name="evlsprt3.171" value="16" />
+    <property name="Darcula.savedEditorTheme" value="Lovecraft" />
+    <property name="Default.savedEditorTheme" value="base16-ocean.light" />
+    <property name="MemberChooser.showClasses" value="true" />
+  </component>
+</application>

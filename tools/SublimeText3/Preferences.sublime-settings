@@ -1,0 +1,53 @@
+{
+	"always_show_minimap_viewport": true,
+	"auto_complete_cycle": true,
+	"auto_complete_delay": 100,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"bold_folder_labels": true,
+	"caret_extra_width": 4,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/InspiredGitHub (SL).tmTheme",
+	"disable_formatted_linebreak": true,
+	"drag_text": false,
+	"findreplace_small": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "OperatorMono-Book",
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"ignore_vcs_packages"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"margin": 0,
+	"overlay_scroll_bars": "enabled",
+	"phpunit-sublime-terminal": "iTerm",
+	"remember_open_files": false,
+	"scroll_speed": 20.0,
+	"shift_tab_unindent": true,
+	"show_definitions": false,
+	"show_full_path": true,
+	"show_panel_on_build": false,
+	"show_tab_close_buttons": false,
+	"theme": "Flatron.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"use_simple_full_screen": true
+}

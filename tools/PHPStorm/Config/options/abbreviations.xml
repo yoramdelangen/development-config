@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CreateLauncherScript">
+        <abbreviation name="pstorm" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

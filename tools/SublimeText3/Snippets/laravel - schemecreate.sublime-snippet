@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[Schema::create('${1}', function(\$table)
+{
+	\$table->increments('id', true);
+	${2}
+});]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>schemacreate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

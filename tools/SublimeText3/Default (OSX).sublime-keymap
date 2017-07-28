@@ -1,0 +1,28 @@
+[
+	// Improve code quality
+	{ "keys": ["super+alt+l"], "command": "build", "args": { "select": "CS_Fixer" }},
+	{ "keys": ["super+alt+k"], "command": "html_beautify", "context": [{
+			"key": "selector",
+			"operator": "equal",
+			"operand": "text.html,text.html.twig,text.twig,source.html,source.html.twig,source.twig"
+		}]
+	},
+
+	// Organize and import classes via uses
+	{ "keys": ["alt+enter"], "command": "find_use", "args": {}},
+	{ "keys": ["alt+]"], "command": "find_use", "args": {}},
+	{ "keys": ["super+shift+c"], "command": "insert_php_constructor_property" },
+
+	// Emmet actions
+	{ "keys": ["ctrl+alt+up"], "command": "run_emmet_action", "args": {"action": "increment_number"} },
+    { "keys": ["ctrl+alt+down"], "command": "run_emmet_action", "args": {"action": "decrement_number"} },
+
+    // Quick movements
+    { "keys": ["ctrl+k"], "command": "scroll_lines", "args": {"amount": 5.0} },
+	{ "keys": ["ctrl+j"], "command": "scroll_lines", "args": {"amount": -5.0} },
+	{ "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+
+	// Macros binding
+	{ "keys": ["super+backspace"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["super+shift+x"], "command": "run_macro_file", "args": {"file": "res://Packages/User/macros/jump-to-method-arguments.sublime-macro"}},
+]

@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bb2c05dd-e4d1-4e10-af7c-1a33ee6e857a" name="Advocatentool" url="http://advocatentool.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="94cec61d-e9ce-4b1e-b3cf-f978cd35b7ef" name="http://tsa-benchmark.dev" url="http://tsa-benchmark.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="560546cb-5772-46ac-af34-69415864943e" name="tsa-l54" url="http://tsa-l54.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

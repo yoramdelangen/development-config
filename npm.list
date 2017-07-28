@@ -1,0 +1,19 @@
+/usr/local/lib
+├── bower@1.8.0
+├── cordova@6.5.0
+├── enclose@2.2.0
+├── eslint@3.7.1
+├── gulp@3.9.1
+├── html-pdf@2.1.0
+├── ionic@2.1.0
+├── ios-deploy@1.9.0
+├── ios-sim@5.0.9
+├── json@9.0.6
+├── laravel-elixir@6.0.0-11
+├── nexe@1.1.2
+├── npm@5.3.0
+├── phantomjs@2.1.7
+├── pkg@3.0.1
+├── quasar-cli@0.6.1
+└── vue-cli@2.8.1
+

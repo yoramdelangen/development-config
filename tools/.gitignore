@@ -1,0 +1,5 @@
+Atom/Packages/**/*
+Atom/.apm
+SublimeText3/Package Control.cache
+Composer/*
+!Composer/composer.json

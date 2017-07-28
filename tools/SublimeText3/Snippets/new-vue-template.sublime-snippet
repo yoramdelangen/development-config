@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[<script>
+    export default {
+		${2}
+    }
+</script>
+
+<template>
+    ${1}
+</template>
+
+<style scoped lang="sass">
+
+</style>]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>templ</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

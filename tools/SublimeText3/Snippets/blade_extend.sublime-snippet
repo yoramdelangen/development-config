@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[@extends(${1:'main'})
+
+@section(${2:'main'})
+	$3
+@stop
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>@extend</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

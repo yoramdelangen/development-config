@@ -1,0 +1,16 @@
+export PATH=${PATH}:~/.composer/vendor/bin
+export PATH=/usr/local/git/bin:$PATH
+export PATH=/opt/local/bin:/opt/local/sbin:$PATH
+export PATH=~/bin:/usr/local/bin:/usr/local/mysql/bin:$PATH
+export PATH=$HOME/.node/bin:$PATH
+
+# Export others
+export EDITOR=vim
+export CLICOLOR=1
+export LSCOLORS=Gxfxcxdxbxegedabagacad
+
+# Export GO language vars
+export GOPATH=$HOME/GoCode
+export GOROOT=/usr/local/opt/go/libexec
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin

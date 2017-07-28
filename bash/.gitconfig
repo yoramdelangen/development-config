@@ -1,0 +1,20 @@
+[user]
+	email = yoramdelangen@gmail.nl
+	name = Yoram de Langen
+[core]
+	quotepath = false
+	excludesfile = /Users/Yoram/.gitignore_global
+	editor = vim
+	autocrlf = false
+[filter "hawser"]
+	clean = git hawser clean %f
+	smudge = git hawser smudge %f
+	required = true
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path =
+[mergetool "sourcetree"]
+	cmd = /Applications/SourceTree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[push]
+	default = matching

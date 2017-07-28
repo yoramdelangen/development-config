@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[@extends('${1:layouts.app}')
+
+@section('${2:content}')
+	${3}
+@stop
+]]></content>
+	<tabTrigger>nb</tabTrigger>
+</snippet>

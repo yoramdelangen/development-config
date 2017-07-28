@@ -1,0 +1,747 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-new/.env" timestamp="1493034746782">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/resources/lang/vendor/users/nl/login.php" timestamp="1492717565514">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.cms/resources/helpers.php" timestamp="1493722859543" />
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/routes/web.php" timestamp="1492777098004">
+        <mark key="[" line="23" column="38" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/database/seeds/FieldSeeder.php" timestamp="1493034199664">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/config/app.php" timestamp="1493649510644">
+        <mark key="[" line="122" column="29" />
+        <mark key="]" line="122" column="29" />
+        <mark key="." line="122" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.users/resources/lang/nl/login.php" timestamp="1492717546915">
+        <mark key="[" line="3" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/survey/edit.blade.php" timestamp="1492776622051">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="14" column="40" />
+        <mark key="." line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Providers/AppServiceProvider.php" timestamp="1493293207974">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/resources/assets/js/pdf-generator/config.json" timestamp="1493813447554" />
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/config/mail.php" timestamp="1493625248715">
+        <mark key="[" line="60" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.entities.filelibrary/CHANGELOG.md" timestamp="1492782172510">
+        <mark key="[" line="7" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/resources/views/segmentation/index.blade.php" timestamp="1493723313771">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/resources/views/bonus/index.blade.php" timestamp="1493216017054">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.media/CHANGELOG.md" timestamp="1492782288561">
+        <mark key="[" line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/Controllers/FieldController.php" timestamp="1492774232923">
+        <mark key="[" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Providers/RouteServiceProvider.php" timestamp="1493219330682">
+        <mark key="[" line="101" column="14" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.users/src/Cms/Controllers/ContactsController.php" timestamp="1492717898317">
+        <mark key="[" line="19" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/resources/views/reports/sales.blade.php" timestamp="1493292927397">
+        <mark key="[" line="66" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/Controllers/MailTemplateController.php" timestamp="1492771360521">
+        <mark key="[" line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts/resources/lang/nl/contacts.php" timestamp="1493032248364">
+        <mark key="[" line="79" column="52" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/config/blueprint_cms.php" timestamp="1493043046729">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/CMSServiceProvider.php" timestamp="1492781232674">
+        <mark key="[" line="302" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.users.target/CHANGELOG.md" timestamp="1492783605699">
+        <mark key="[" line="6" column="43" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.cms/resources/views/errors/exception.blade.php" timestamp="1493722459472">
+        <mark key="[" line="12" column="86" />
+        <mark key="]" line="12" column="86" />
+        <mark key="." line="12" column="86" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.toolbox/helpers.php" timestamp="1492781186004">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts/resources/views/contacts/form.blade.php" timestamp="1493032791313">
+        <mark key="[" line="29" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php" timestamp="1492757997695">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/.env" timestamp="1493106796884">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/tests/TestCase.php" timestamp="1493043523231">
+        <mark key="[" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/laravel/framework/src/Illuminate/Translation/Translator.php" timestamp="1492716588343">
+        <mark key="[" line="294" column="5" />
+        <mark key="]" line="313" column="0" />
+        <mark key="." line="313" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.products/src/Cms/Controllers/ProductController.php" timestamp="1492776278855">
+        <mark key="[" line="78" column="32" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/config/services.php" timestamp="1493043328860">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/resources/views/pdf/partials/header-footer.blade.php" timestamp="1493805429198">
+        <mark key="[" line="69" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/config/mail.php" timestamp="1493036376531">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="4" />
+        <mark key="." line="62" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.api/src/Providers/ApiServiceProvider.php" timestamp="1493722371617" />
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/routes/api_v2.php" timestamp="1493219270874">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/routes/unsecure.php" timestamp="1493219402370">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.users/resources/views/users/contacts/index.blade.php" timestamp="1493292620388">
+        <mark key="[" line="18" column="93" />
+        <mark key="]" line="18" column="93" />
+        <mark key="." line="18" column="93" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/storage/logs/laravel-2017-05-03.log" timestamp="1493820898427">
+        <mark key="'" line="1125" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/package.json" timestamp="1493792393189">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.pushnotifications/CHANGELOG.md" timestamp="1492782477513">
+        <mark key="[" line="6" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/config/app.php" timestamp="1493287211318">
+        <mark key="[" line="164" column="51" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="79" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/todos/edit.blade.php" timestamp="1492776641008">
+        <mark key="[" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Listeners/CampaignOrderPhoto.php" timestamp="1493287587673">
+        <mark key="[" line="29" column="63" />
+        <mark key="]" line="29" column="63" />
+        <mark key="." line="29" column="63" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/views/translation/edit.blade.php" timestamp="1492774042332">
+        <mark key="[" line="14" column="115" />
+        <mark key="]" line="14" column="115" />
+        <mark key="." line="14" column="115" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/views/widgets/fields/media.blade.php" timestamp="1493032545321">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.toolbox/src/ToolboxServiceProvider.php" timestamp="1493723115077">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/resources/views/pdf/partials/header.blade.php" timestamp="1493805387025" />
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/public/index.php" timestamp="1492780393837">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/.env.example" timestamp="1493623748814">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.entities.campaign/CHANGELOG.md" timestamp="1492782168079">
+        <mark key="[" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/resources/views/pdf/serviceagreement.blade.php" timestamp="1493893197022">
+        <mark key="[" line="430" column="73" />
+        <mark key="]" line="430" column="59" />
+        <mark key="^" line="430" column="59" />
+        <mark key="." line="430" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/app/Http/routes.php" timestamp="1493727009435">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="6" column="3" />
+        <mark key="." line="6" column="3" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/app/Providers/AppServiceProvider.php" timestamp="1493034592396">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/laravel/framework/src/Illuminate/Translation/TranslationServiceProvider.php" timestamp="1492712722456">
+        <mark key="[" line="47" column="68" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/.env" timestamp="1493885187463">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.contacts/resources/views/contact-history/index.blade.php" timestamp="1493904957608">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/resources/views/pdf/partials/new-header-footer.blade.php" timestamp="1493881355675">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="17" />
+        <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/tests/DuskTestCase.php" timestamp="1493649649174">
+        <mark key="[" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Http/routes.php" timestamp="1493219074599">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.toolbox/src/Core/Bp.php" timestamp="1493719230667">
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="68" column="48" />
+        <mark key="." line="68" column="48" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/resources/assets/js/pdf.js" timestamp="1493638200944">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/Base/BlueprintCmsTrait.php" timestamp="1492717801001">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="26" column="5" />
+        <mark key="." line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/.env" timestamp="1493649410472">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts.order/src/OrdersServiceProvider.php" timestamp="1492779645757">
+        <mark key="[" line="49" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/survey/create.blade.php" timestamp="1492776606625">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/visits/edit.blade.php" timestamp="1492776668545">
+        <mark key="[" line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/resources/views/mailingtype/index.blade.php" timestamp="1493723655526">
+        <mark key="[" line="42" column="12" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/app/Http/routes.php" timestamp="1493719312400" />
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts/src/ContactsServiceProvider.php" timestamp="1492779352244">
+        <mark key="[" line="37" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.users/resources/views/login.blade.php" timestamp="1492767521228">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/resources/views/bonus/edit.blade.php" timestamp="1493292405167">
+        <mark key="[" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/config/blueprint_cms.php" timestamp="1493647903465">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.cms/resources/views/mailtemplates/signature/index.blade.php" timestamp="1493292305041">
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/config/auth.php" timestamp="1493647887238">
+        <mark key="[" line="69" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/lang/nl/surveys.php" timestamp="1492772365798">
+        <mark key="[" line="49" column="23" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/resources/views/pdf/partials/footer.blade.php" timestamp="1493805419763" />
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.users/CHANGELOG.md" timestamp="1492783565204">
+        <mark key="[" line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/storage/logs/laravel-2017-05-04.log" timestamp="1493885292186" />
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/resources/lang/vendor/users/users.php" timestamp="1492717473366">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/lang/nl/translation.php" timestamp="1492774145840">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts.note/CHANGELOG.md" timestamp="1492781715784">
+        <mark key="[" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/config/services.php" timestamp="1493819804681">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="17" column="69" />
+        <mark key="." line="17" column="69" />
+        <mark key="^" line="17" column="69" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.toolbox/seeders/EntitySeeder.php" timestamp="1492783502578">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.cms/routes/middlewareless.php" timestamp="1493722589212" />
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/CHANGELOG.md" timestamp="1493034308681">
+        <mark key="[" line="16" column="61" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1493043438463">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/storage/framework/views/9077e975cc52afc827374e964612e2c8f15be715.php" timestamp="1493722448833" />
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/src/Services/PdfService.php" timestamp="1493885669901">
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="14" />
+        <mark key="." line="63" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.users/src/Cms/Controllers/LoginController.php" timestamp="1492717886120">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.toolbox/seeders/csv/fields.csv" timestamp="1493032568047">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Http/menu.php" timestamp="1493043145225">
+        <mark key="[" line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/config/app.php" timestamp="1493029597677">
+        <mark key="[" line="75" column="17" />
+        <mark key="]" line="75" column="17" />
+        <mark key="." line="75" column="17" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts/CHANGELOG.md" timestamp="1493034383682">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/config/auth.php" timestamp="1493043309677">
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="23" />
+        <mark key="." line="69" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.contacts.order/src/Providers/CmsServiceProvider.php" timestamp="1493108720773">
+        <mark key="[" line="28" column="75" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/routes/middlewareless.php" timestamp="1492717980785">
+        <mark key="[" line="22" column="79" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/visits/create.blade.php" timestamp="1492776656566">
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/config/services.php" timestamp="1493625392805">
+        <mark key="[" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/CHANGELOG.md" timestamp="1492781444563">
+        <mark key="[" line="10" column="57" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/resources/lang/vendor/orders/nl/orders.php" timestamp="1493293003338">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/resources/lang/vendor/contacts/nl/entities.php" timestamp="1493293231708">
+        <mark key="[" line="3" column="3" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms.dashboard/src/Cms/Controllers/DashboardController.php" timestamp="1492717924914">
+        <mark key="[" line="42" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.contacts/resources/views/addresses/partials/actionbar.blade.php" timestamp="1493292668961">
+        <mark key="[" line="31" column="89" />
+        <mark key="]" line="31" column="89" />
+        <mark key="." line="31" column="89" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.products/CHANGELOG.md" timestamp="1492782403484">
+        <mark key="[" line="8" column="59" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.cms/src/CMSServiceProvider.php" timestamp="1493288303291">
+        <mark key="[" line="86" column="94" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/resources/assets/js/pdf-generator/helpers.js" timestamp="1493812722757">
+        <mark key="[" line="39" column="28" />
+        <mark key="]" line="39" column="22" />
+        <mark key="." line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/config/blueprintsoftware.php" timestamp="1493042538949">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/laravel/framework/src/Illuminate/Translation/FileLoader.php" timestamp="1492716347273">
+        <mark key="[" line="37" column="5" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/views/settings/create.blade.php" timestamp="1492772963952">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.entities/CHANGELOG.md" timestamp="1492782055179">
+        <mark key="[" line="9" column="72" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/app/Http/menu.php" timestamp="1493723059990">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.api/src/Controllers/SettingsController.php" timestamp="1492772772342">
+        <mark key="[" line="36" column="50" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.cms/resources/helpers.php" timestamp="1493108023502">
+        <mark key="[" line="76" column="3" />
+        <mark key="]" line="76" column="4" />
+        <mark key="." line="76" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.media/src/Providers/ApiServiceProvider.php" timestamp="1492782337654">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/tests/TestCase.php" timestamp="1493649629471">
+        <mark key="[" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/storage/logs/laravel.log" timestamp="1493287229502">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/app/Http/Kernel.php" timestamp="1493649564419">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/Providers/MailTemplateServiceProvider.php" timestamp="1492778911858">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/lang/en/fields.php" timestamp="1493034132536">
+        <mark key="[" line="101" column="36" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="101" column="36" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/.env" timestamp="1492780371022">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/resources/lang/vendor/users/login.php" timestamp="1492717534634">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Http/Middleware/JWTVerify.php" timestamp="1493287255236">
+        <mark key="[" line="31" column="70" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts.order/CHANGELOG.md" timestamp="1492781965433">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Http/Controllers/ContactController.php" timestamp="1493107852780">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/views/settings/edit.blade.php" timestamp="1492772946517">
+        <mark key="[" line="21" column="111" />
+        <mark key="]" line="21" column="111" />
+        <mark key="." line="21" column="111" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/Providers/BlueprintTranslatorServiceProvider.php" timestamp="1492777479330">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/routes/web.php" timestamp="1493216404191">
+        <mark key="[" line="17" column="74" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/laravel/framework/src/Illuminate/Pagination/PaginationServiceProvider.php" timestamp="1492756730304">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts.visit/CHANGELOG.md" timestamp="1492782048977">
+        <mark key="[" line="5" column="66" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/views/dashboard.blade.php" timestamp="1492718063054">
+        <mark key="[" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/resources/assets/js/pdf-generator/index.js" timestamp="1493813464526">
+        <mark key="[" line="61" column="17" />
+        <mark key="]" line="61" column="18" />
+        <mark key="." line="61" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Http/Kernel.php" timestamp="1493217274347">
+        <mark key="[" line="40" column="10" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.contacts/resources/views/addresses/index.blade.php" timestamp="1493292573756">
+        <mark key="[" line="23" column="74" />
+        <mark key="]" line="23" column="74" />
+        <mark key="." line="23" column="74" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts/resources/views/contacts/edit.blade.php" timestamp="1493032715533">
+        <mark key="[" line="33" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/vendor/blueprintsoftware/bp.laravel.users.tracking/src/GpsServiceProvider.php" timestamp="1493719628335" />
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/node_modules/nightmare/package.json" timestamp="1493728973302">
+        <mark key="[" line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-new/composer.json" timestamp="1493034798882">
+        <mark key="[" line="10" column="49" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/docs/pdf-generator.md" timestamp="1493724201367">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/app/Jobs/CreateServiceContractJob.php" timestamp="1493893292595">
+        <mark key="'" line="199" column="62" />
+        <mark key="[" line="219" column="9" />
+        <mark key="]" line="57" column="12" />
+        <mark key="." line="57" column="12" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493899869938">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.contacts/resources/views/contacts/index.blade.php" timestamp="1493292725119">
+        <mark key="[" line="82" column="93" />
+        <mark key="]" line="82" column="93" />
+        <mark key="." line="82" column="93" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/appointments/create.blade.php" timestamp="1492776554003">
+        <mark key="[" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/inspirits-up/config/database.php" timestamp="1493043290629">
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/lang/nl/mailtemplates.php" timestamp="1492779082877">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.toolbox/CHANGELOG.md" timestamp="1493034479453">
+        <mark key="[" line="18" column="76" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/msn/app/Jobs/Job.php" timestamp="1493804800279" />
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/survey/question.blade.php" timestamp="1492772551510">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.importexport/CHANGELOG.md" timestamp="1492782249171">
+        <mark key="[" line="10" column="62" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/views/translation/index.blade.php" timestamp="1492774063249">
+        <mark key="[" line="29" column="96" />
+        <mark key="]" line="29" column="96" />
+        <mark key="." line="29" column="96" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/lang/en/translation.php" timestamp="1492774142902">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/nolet/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1493649604681">
+        <mark key="[" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.contacts/resources/config.php" timestamp="1492781606875">
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="0" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-20.log" />
+      <jump line="428" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-20.log" />
+      <jump line="384" column="11" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-20.log" />
+      <jump line="471" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-20.log" />
+      <jump line="410" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-20.log" />
+      <jump line="557" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-20.log" />
+      <jump line="23" column="17" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/resources/views/dashboard.blade.php" />
+      <jump line="327" column="20" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/CMSServiceProvider.php" />
+      <jump line="5670" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-21.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/storage/logs/laravel-2017-04-21.log" />
+      <jump line="444" column="14" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php" />
+      <jump line="332" column="51" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/CMSServiceProvider.php" />
+      <jump line="7" column="4" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.appointments/resources/views/todos/index.blade.php" />
+      <jump line="335" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/CMSServiceProvider.php" />
+      <jump line="340" column="0" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/CMSServiceProvider.php" />
+      <jump line="301" column="26" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/CMSServiceProvider.php" />
+      <jump line="99" column="79" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.toolbox/seeders/FieldSeeder.php" />
+      <jump line="109" column="37" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.toolbox/seeders/FieldSeeder.php" />
+      <jump line="107" column="8" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.toolbox/seeders/FieldSeeder.php" />
+      <jump line="191" column="81" filename="$USER_HOME$/Code/blueprintWeb/tsa-test/vendor/blueprintsoftware/bp.laravel.cms/src/Widgets/FieldsWidget.php" />
+      <jump line="69" column="0" filename="$USER_HOME$/Code/blueprintWeb/inspirits-up/vendor/blueprintsoftware/bp.laravel.cms/resources/helpers.php" />
+      <jump line="40" column="33" filename="$USER_HOME$/Code/blueprintWeb/inspirits-up/routes/web.php" />
+      <jump line="9" column="61" filename="$USER_HOME$/Code/blueprintWeb/inspirits-up/storage/logs/laravel-2017-04-25.log" />
+      <jump line="2043" column="0" filename="$USER_HOME$/Code/blueprintWeb/inspirits-up/storage/logs/laravel-2017-04-25.log" />
+      <jump line="1985" column="0" filename="$USER_HOME$/Code/blueprintWeb/inspirits-up/storage/logs/laravel-2017-04-25.log" />
+      <jump line="48" column="10" filename="$USER_HOME$/Code/blueprintWeb/inspirits-up/app/Http/Controllers/ContactController.php" />
+      <jump line="18" column="49" filename="$USER_HOME$/Code/blueprintWeb/nolet/app/Console/Kernel.php" />
+      <jump line="38" column="41" filename="$USER_HOME$/Code/blueprintWeb/nolet/config/blueprintsoftware.php" />
+      <jump line="54" column="64" filename="$USER_HOME$/Code/blueprintWeb/nolet/storage/logs/laravel-2017-05-02.log" />
+      <jump line="455" column="0" filename="$USER_HOME$/Code/blueprintWeb/nolet/storage/logs/laravel-2017-05-02.log" />
+      <jump line="615" column="19" filename="$USER_HOME$/Code/blueprintWeb/nolet/storage/logs/laravel-2017-05-02.log" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/blueprintWeb/nolet/storage/logs/laravel-2017-05-02.log" />
+      <jump line="814" column="0" filename="$USER_HOME$/Code/blueprintWeb/nolet/storage/logs/laravel-2017-05-02.log" />
+      <jump line="272" column="93" filename="$USER_HOME$/Code/blueprintWeb/msn/storage/logs/laravel-2017-05-03.log" />
+      <jump line="1125" column="0" filename="$USER_HOME$/Code/blueprintWeb/msn/storage/logs/laravel-2017-05-03.log" />
+      <jump line="72" column="35" filename="$USER_HOME$/Code/blueprintWeb/msn/vendor/blueprintsoftware/bp.laravel.toolbox/src/Services/PdfService.php" />
+      <jump line="194" column="62" filename="$USER_HOME$/Code/blueprintWeb/msn/app/Jobs/CreateServiceContractJob.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">e3stLSovICAvKi0tfX0K</text>
+      </register>
+      <register name="-" type="4">
+        <text>\</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjbXNcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ2ZpZWxkX2NvbmZpZyddID0gc3RyX3JlcGxhY2UoJHRhZywgJHZhbHVlLCAkZGF0YVsnZmllbGRfY29uZmlnJ10pOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">e3stLSovICAvKi0tfX0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dXNlIEJsdWVwcmludFxNZWRpYVxBcGlcVHJhbnNmb3JtZXJzXE1lZGlhVHJhbnNmb3JtZXI7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNlIEJsdWVwcmludFxDb250YWN0c1xBcGlcVHJhbnNmb3JtZXJzXENvbnRhY3RUcmFuc2Zvcm1lcjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEJsdWVwcmludFxDb250YWN0c1xBcGlcVHJhbnNmb3JtZXJzXENvbnRhY3RUcmFuc2Zvcm1lcjsKdXNlIEJsdWVwcmludFxDb250YWN0c1xNb2RlbFxDb250YWN0Owo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIA==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAg</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAg</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjbXNcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjbXNcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxjbXNcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wq</entry>
+        <entry>q</entry>
+        <entry>Q</entry>
+        <entry>180</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
