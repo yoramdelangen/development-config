@@ -44,7 +44,7 @@ npm list -g --depth=0 > npm.list
 # Links
 ## HLN
 ```
-hln /Users/Yoram/Library/Application Support/Sublime\ Text\ 3/Packages/User tools/SublimeText3/
+hln /Users/Yoram/Library/Application\ Support/Sublime\ Text\ 3/Packages/User tools/SublimeText3/
 hln ~/.atom/ tools/Atom/
 hln ~/.scripts/ scripts/
 hln ~/Library/Preferences/PhpStorm2017.1 tools/PHPStorm/Config
