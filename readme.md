@@ -1,10 +1,10 @@
-# My configs
+    # My configs
 This is a set of my current used configs.
 
 I created a directory which links to all other config directories. Because OSX doesnt support itI used a tool called `hardlink-osx` (`hln`) for it.
 
 ## Sublime Text - Primary editor
-Wihtin `tools/SublimeText3/` is a hardlink to `/Users/Yoram/Library/Application Support/Sublime\ Text\ 3/Packages/User`.
+Wihtin `tools/SublimeText3/` is a hardlink to `/Users/Yoram/Library/Application\ Support/Sublime\ Text\ 3/Packages/User`.
 
 ## Atom
 Wihtin `tools/Atom/` is a hardlink to `~/.atom/`.

@@ -33,19 +33,16 @@ alias ......='cd ../../../../..'
 alias ~='cd ~'
 alias sites='cd ~/Sites/'
 alias code='~/Code/'
-alias bpc='~/Code/blueprintWeb/'
+alias bc='~/Code/Brandcube'
 alias hosts='sudo vim /etc/hosts'
 alias known_hosts='sudo vim /Users/yoramdelangen/.ssh/known_hosts'
-alias _v='cd vendor/blueprintsoftware/'
-alias bp='~/Code/blueprintWeb/'
 
 # Others
 alias _=sudo
 alias source_bash='source ~/.bash_profile && source ~/.bash_aliases'
 alias c='clear'
 alias cc="osascript -e 'if application \"iTerm2\" is frontmost then tell application \"System Events\" to keystroke \"k\" using command down'"
-alias hs='homestead'
-alias phpfix='php-cs-fixer fix ./ --level=symfony --fixers=align_double_arrow,short_array_syntax,concat_with_spaces,ordered_use'
+alias phpfix='php-cs-fixer fix .  --config=/Users/Yoram/.scripts/php_cs.dist'
 alias size='du -hs * | sort -h'
 
 # PHPUnit
@@ -53,30 +50,30 @@ alias pu='phpunit'
 alias puf='phpunit --filter'
 
 parse_git_branch() {
-     git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'
+    git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'
 }
 
 git_pull() {
-        if [ ! -z "$1" ]; then
-                echo "Pull from branch => $1"
-                git pull -v --stat origin "$1"
-        else
-                echo "Pull from branch => $(parse_git_branch)"
-                git pull -v --stat origin "$(parse_git_branch)"
-        fi
+    if [ ! -z "$1" ]; then
+        echo "Pull from branch => $1"
+        git pull -v --stat origin "$1"
+    else
+        echo "Pull from branch => $(parse_git_branch)"
+        git pull -v --stat origin "$(parse_git_branch)"
+    fi
 
 	git fetch --tags
 }
 alias pull=git_pull
 
 git_push() {
-        if [ ! -z "$1" ]; then
-                echo "Push on branch => $1"
-                git push -u origin "$1"
-        else
-                echo "Push on branch => $(parse_git_branch)"
-                git push -u origin "$(parse_git_branch)"
-        fi
+    if [ ! -z "$1" ]; then
+        echo "Push on branch => $1"
+        git push -u origin "$1"
+    else
+        echo "Push on branch => $(parse_git_branch)"
+        git push -u origin "$(parse_git_branch)"
+    fi
 }
 alias push=git_push
 alias newversion=~/.scripts/new-version.sh
@@ -101,3 +98,41 @@ tsa_update()
     fi
 }
 alias "tsa-env"=tsa_update
+
+homesteadCommands()
+{
+    if [ $# -eq 0 ]; then
+        echo "Please gife one of the following commands: \n- start \n- stop \n- edit \n- status\n- ssh \n- reload/restart \n- update/provision/prov"
+        return
+    fi
+
+    CURRENT_DIR=$PWD
+    cd ~/.homestead
+
+    case "$1" in
+        start|up )
+            vagrant up
+            ;;
+        stop )
+            vagrant halt
+            ;;
+        status )
+            vagrant status
+            ;;
+        edit )
+            subl Homestead.yaml
+            ;;
+        ssh )
+            vagrant ssh
+            ;;
+        update|provision|prov )
+            vagrant provision
+            ;;
+        reload|restart )
+            vagrant reload --provision
+            ;;
+    esac
+
+    cd $CURRENT_DIR
+}
+alias hs=homesteadCommands
